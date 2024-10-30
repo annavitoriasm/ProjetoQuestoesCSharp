@@ -2,7 +2,7 @@
 - Atividade prática de Programação Orientada à Objetos;
   
 # Autor
-- @annavitoriasm;
+- Anna Vitoria da Silva Martins (@annavitoriasm);
 
 # Instruções
 - Para navegar pelo menu e acessar as questões, basta inserir o número correspondente à questão, de acordo com a documentação base.
